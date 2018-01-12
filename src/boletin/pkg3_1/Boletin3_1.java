@@ -24,6 +24,7 @@ public class Boletin3_1 {
     System.out.println("Velocidade actual:"+ejercicio1.getVelocidade());
     ejercicio1.frenar(50);
     System.out.println("Velocidade actual:"+ejercicio1.getVelocidade()); 
+    //jgfgnrfn
     }
     
 }
